@@ -1,0 +1,2 @@
+alpha="abcdefghijklmnopkrstuvwxy"
+print(alpha)
